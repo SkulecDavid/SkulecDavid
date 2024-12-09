@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @SkulecDavid
+- 👋 Hi, I’m Skuli
 - 👀 I’m interested in the furry fandom
-- 🌱 I’m currently learning programming
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me not
-- 😄 Pronouns: on my profile
-- ⚡ Fun fact: Blue Cat
+- 🌱 I’m currently learning python
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: I have a blue cat fursona
+- 💻 Currently working on: RPG-gaem
 
 <!---
 SkulecDavid/SkulecDavid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
