@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Skuli
 - 👀 I’m interested in the furry fandom
 - 🌱 I’m currently learning python
-- 😄 Pronouns: They/Them
+- 😄 Pronouns: He/They
 - ⚡ Fun fact: I have a blue cat fursona
 - 💻 Currently working on: RPG-gaem
 
